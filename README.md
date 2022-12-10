@@ -5,7 +5,7 @@
 ```diff
 👋 Dooka, A MCBE Realm Developer. Who mainly develops Resource related content and formats ui content. 
 ```
-<img src="1031877784269754378" alt="Discord"/></a>
+<img src="https://discord.com/" alt="Discord"/></a>
 --- ---
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051066333950914580/Untitled_3.png?width=1356&height=566)
 --- ---
