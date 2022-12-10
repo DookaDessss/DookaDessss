@@ -13,6 +13,7 @@
 --- ---
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051069283741995040/Untitled_4.png?width=1356&height=403)
 ```diff
-📄 Check out my Projects >  ### [Coming Soon!](https://github.com/DookaDessss)
+📄 Check out my Projects
 ```
+### [Coming Soon!](https://github.com/DookaDessss)
 </div>
