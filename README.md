@@ -7,7 +7,6 @@ I am also trying to learn and expand into behavior development, although I am st
 I have been working around MCBE for about three years and was a contracted marketplace resource developer for about a year. 
 Additionally, I am also a Fiverr Premium member, I am able to offer help with Discord layouts, banners, embeds, and promotion.
 ```
-</div>
 <div align="center">
 ```info
 📄 Are you searching for MCBE addons that can be used on realms or worlds? Look no further than Dooka-Packages, 
