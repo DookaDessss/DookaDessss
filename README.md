@@ -8,13 +8,8 @@ GameTest & Functions. I have been working around MCBE for about three years and 
 resource developer for about a year. Additionally, I am also a Fiverr Premium member, I am able to offer help 
 with Discord layouts, banners, embeds, and promotion.
 ```
+> Visit: [Dooka-Packages](https://github.com/Dooka-Packages) A collection of open-source MCBE packs and addons created by me
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051245398288769084/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313035303539313137313932313037323133302f313035313036363637353433303136363532382f556e7469746c6564342e706e673f77696474683d3133353626_1.png)
-```info
-📄 Are you searching for MCBE addons that can be used on realms or worlds? Look no further than Dooka-Packages, 
-a collection of open-source MCBE packs and addons created by me.
-``` 
-> Visit: [Dooka-Packages](https://github.com/Dooka-Packages)
-![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051960889944842390/Untitled_4_2.png)
 --- ---
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051957785602043904/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3937303231313138313935383636303132372f313031313033363538343433363536343030392f6769745f62616e6e65722e706e673f77696474683d31333331266865.png)<br>
 ```info
