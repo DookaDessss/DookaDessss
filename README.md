@@ -2,10 +2,14 @@
 
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051245397928054834/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313035303539313137313932313037323133302f313035313036363637353433303136363532382f556e7469746c6564342e706e673f77696474683d3133353626_2.png)<br>
 ```info
-👋 Hello and welcome to my Github! As you can see, I am a Minecraft Bedrock developer with a focus on resource development. I am also trying to learn and expand into behavior development, although I am still a beginner in GameTest & Functions. I have been working around MCBE for about three years and was a contracted marketplace resource developer for about a year. Additionally, I am also a Fiverr Premium member, I am able to offer help with Discord layouts, banners, embeds, and promotion.
+👋 Hello and welcome to my Github! As you can see, I am a Minecraft Bedrock developer with a focus on resource development. 
+I am also trying to learn and expand into behavior development, although I am still a beginner in GameTest & Functions. 
+I have been working around MCBE for about three years and was a contracted marketplace resource developer for about a year. 
+Additionally, I am also a Fiverr Premium member, I am able to offer help with Discord layouts, banners, embeds, and promotion.
 ```
 ```info
-📄 Are you searching for MCBE addons that can be used on realms or worlds? Look no further than Dooka-Packages, a collection of open-source MCBE packs and addons created by me.
+📄 Are you searching for MCBE addons that can be used on realms or worlds? Look no further than Dooka-Packages, 
+a collection of open-source MCBE packs and addons created by me.
 ```
  { [Dooka-Packages](https://github.com/Dooka-Packages) }
 
