@@ -16,7 +16,7 @@ with Discord layouts, banners, embeds, and promotion.
 🛠️ Introducing HaveN, a Minecraft Bedrock Edition prison realm project currently in development. 
 Keep an eye on this space for updates and progress on the project!
 ``` 
-> Visit: [HaveN-Orgainizer](https://github.com/HaveN-Organizer) for project updates and Wiki information once posted. Discord: [HaevN Prisons](https://discord.gg/uMKfjezXxw)
+> Visit: [HaveN-Orgainizer](https://github.com/HaveN-Organizer) for project updates and Wiki information once posted. Discord: [Start Chatting](https://discord.gg/uMKfjezXxw)
 ![MasterHead](https://media.discordapp.net/attachments/1050591171921072130/1051246793188442162/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313035303539313137313932313037323133302f313035313036363333333935303931343538302f556e7469746c65645f332e706e673f77696474683d31333536_3.png)
 --- ---
 </div>
